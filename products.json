@@ -1,0 +1,690 @@
+[
+    {
+        "product-name": "Death Note Bioworld T-shirt",
+        "description": "White",
+        "price": 24.95,
+        "anime": 1,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDAKIXhHtogv3d6kHbOGsHJDPMbL0yEoKdc58dJ_xGxsc5QjxNvB1sg-vdIZ8Q4fEIrGP0Qkg_3Ndt-If8zet210okzWUCbMzwoADWomWay0CPMu6b1sKhBQ&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Death Note T-shirt",
+        "description": "Black",
+        "price": 19.95,
+        "anime": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8DQ6To57MqSkxN_fejrVW4T8d3pr0hBIOLhQyzoqEeI37L34nYz7Hm0bkzSIe07kYGBxB_NsYOgxJuZ8b-LaHrWm7sfa37P6_qq5eF6Gr-k5fycnTAQGbTw&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Naruto Shippuden- Kakashi Story T-shirt",
+        "description": "Heather Gray",
+        "price": 19.99,
+        "anime": 17,
+        "image": "https://m.media-amazon.com/images/I/71mwbVNN-OL._AC_SX569._SX._UX._SY._UY_.jpg",
+        "type": 1
+    },
+    {
+        "product-name": "Black Butler T-shirt",
+        "description": "Black",
+        "price": 19.99,
+        "anime": 2,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS0AAu0v6vVJ-5FGWE9tlXVnnPuHwKanfTVsS1yAliuLEt2mlGj2wrQEMH3bpYinvJ_x0CMuQ7ZLqO_tJyuJlgLMqyWPbKM6xU_V1wcjiRPIqg3Ng76hHPlQw&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Black Butler 'Yes, my Lord' Sweatshirt",
+        "description": "Orange",
+        "price": 29.99,
+        "anime": 2,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLAlDerBnyrqjJ22BwHTYucAGbCy9u48hn8Adz_aPa6cbVhigVN7firLD2Vq2kj7Yc73nIRrCZmaYL5rl5LaZtHEI2_QxFbRVrRHxso2a6VanBgn3hNdmrhA&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Sailor Moon Sweatshirt",
+        "description": "Lavender Crewneck",
+        "price": 39.99,
+        "anime": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQnZ0Y8_mkBN0bhyiyXIAo3a1nD_7qtGPUqclF1x7pE_Eb00gCtxBrcQypUx1JCOZgaB0ZGIFZx8OBViu2sa-0LqMM7syzLMD3UpH8u8AHdXKE4rCd-QlIU&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Sailor Moon Primitive T-shirt",
+        "description": "White",
+        "price": 30.99,
+        "anime": 3,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR3XgzNCnpxIYzJaaPtc-9tw0MjBy2pQPsT8toghDhas8SkDaAGGr-3jHvyjGoWyXdGDiYjt7W2oKEFIkJsdVlODJalbIDATJaO-xbbRngQXVtx7V5LdfJuHQ&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Fullmetal Alchemist T-shirt",
+        "description": "Black",
+        "price": 16.95,
+        "anime": 4,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrE4q2uMXjm8RireVjfe8gf01flz6-FsXOcwbyO4gmLNP2eBPIZIDKHHS2JnEmCFa1z-9Pa1a_h5_wRXmz5Mo9GCGdzWYIlU0KdExu-VxJaI8hbgQmrbLHqQ&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Fullmetal Alchemist Edward Elric Lightning Crossover Sweatshirt",
+        "description": "Red/Black",
+        "price": 39.99,
+        "anime": 4,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjFMMHWXHUqvOpfloqQ68HXFJGa2scSek-d9Rv8EddEa5gXNOWI23qj10zBkexgR-yeQIlBSriDUD9tUZ9GdQQMZ-KLmAg8QuGEdUdYmgnjocth3KMa7-Y&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Bleach Ichigo Kurosaki T-shirt",
+        "description": "Black",
+        "price": 24.95,
+        "anime": 5,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7Pz99zFCKOmf25bXN8HBWgKrX9s5jGZG9qVE6SZhwl7xXIIpBTbEv-bG9u_B6dWVgyRCUAlPhr5xN4216f_zjuh7loXQr&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Bleach Ichigo Kurosaki Sweatshirt",
+        "description": "Blue",
+        "price": 35.95,
+        "anime": 5,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRoY7O4_FeyFz9csRKgsCk-uffupCDwdcaAnBRz230JoAZCRx12xzT2TBGtnUy4giRJkxWo4vcEh7FgTC02WAtmr1HRTgYxKxnCcw78l9DNUHSAW2zJzGHA&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Dragon Ball Z Krillin T-shirt",
+        "description": "Multi-colored",
+        "price": 29.99,
+        "anime": 6,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRawBGPPujXrEYXM8w1x9GI3zLOfTh6o-x-qY3ZLxLjWxt1kAk7dqjL8V0CRjPaA78Z7NWJj1JL6gal469Bwaj6WsIA43RoWEELpJliUh-6yRCbYyxc1nR8&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Dragon Ball Z Group T-shirt",
+        "description": "Black",
+        "price": 19.99,
+        "anime": 6,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRLZ2PBpns9Ukrfx-ZXYrDA-vLjPlg_j5FmrS6hRyrvEFT3cJ4KeVdxGG-Oqd7MHPxN2Gx-bob2_2pQDutfCE-fSe3ZakFm6gFETDuDCNOMMjsLjsPJc7cedA&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Spy x Family T-shirt",
+        "description": "Black",
+        "price": 19.99,
+        "anime": 7,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRs0j-n5ZdsX1sReMV8BC9i6x9FFz2kxWtGeQud_xWopqwkt4zT31aPKVNJD3PIVCBZ6ynvpuUGp7p9pFc7Eje47xAstceMCwcPY46LiXZSvjmiWFdx1UGu&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Spy x Family Sweatshirt",
+        "description": "Pink",
+        "price": 19.99,
+        "anime": 7,
+        "image": "https://i5.walmartimages.com/asr/7a3e33bb-153d-49e4-882e-61704083c195.215dd17d7b941f27d18b86d6f3a604f9.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+        "type": 1
+    },
+    {
+        "product-name": "Komi Cant Communicate Komi Shoko T-Shirt",
+        "description": "Tan",
+        "price": 14.99,
+        "anime": 8,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGH6y_NkE7Z_c6MjZwwAdTpDrrLcSZB8yn-OigK6DcdWD3FDnJl4WUtrq5oebaS7yJOh7hJwV-P1Cnoq9okzkqoZvJNb1i&usqp=CAY",
+        "type": 1
+    },
+    {
+        "product-name": "Komi Cant Communicate Komi-san wa T-Shirt",
+        "description": "Black",
+        "price": 12.99,
+        "anime": 8,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSo-m9k3U2vAYIYoPWoQ8rhwnYUoI9io7taCDKAbJhdM3pSFfXbmHWZ_s5mRGGTlYFg-V17eyVFG3xJXWNo29En60UET4wdVojyokrWuikS0fuwbhTQGVfl",
+        "type": 1
+    },
+    {
+        "product-name": "The Way of the Househusband ShibaInu T-shirt",
+        "description": "Black",
+        "price": 20.99,
+        "anime": 9,
+        "image": "https://ueeshop.ly200-cdn.com/u_file/UPAI/UPAI497/2104/products/19/802e52a48e.jpg.640x640.jpg",
+        "type": 1
+    },
+    {
+        "product-name": "Attack on Titan Eren Yeager T-shirt",
+        "description": "White",
+        "price": 25.99,
+        "anime": 10,
+        "image": "https://cdn.shopify.com/s/files/1/0070/1700/5113/products/TSM1FW8ATN_1_800x.png?v=1652126869",
+        "type": 1
+    },
+    {
+        "product-name": "Attack on Titan Group Swords Sweatshirt",
+        "description": "Blue Crewneck",
+        "price": 35.99,
+        "anime": 10,
+        "image": "https://www.ripplejunction.com/media/catalog/product/Preview/TA/TABW2075_ROYAL.jpg?width=700&height=700&store=default&image-type=image",
+        "type": 1
+    },
+    {
+        "product-name": "Demon Slayer Sweatshirt",
+        "description": "Yellow",
+        "price": 31.95,
+        "anime": 11,
+        "image": "https://ae01.alicdn.com/kf/Hc7b00d14b4554ed3a2a647d308e5734ch/Demon-Slayer-Printed-Hoodies-Funny-Sweatshirts-Hip-Hop-Long-Sleeve-Pullover-Loose-Print-Streetwear-for-Men.jpg",
+        "type": 1
+    },
+    {
+        "product-name": "Demon Slayer Kamado Tanjiro Sweatshirt",
+        "description": "Redish-Black with Green/Black Checkered Sleeves",
+        "price": 33.95,
+        "anime": 11,
+        "image": "https://i.ebayimg.com/images/g/bK8AAOSwfdZfdfOx/s-l500.jpg",
+        "type": 1
+    },
+    {
+        "product-name": "Jujutsu Kaisen Sweatshirt",
+        "description": "Black",
+        "price": 36.99,
+        "anime": 12,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ71AIZMxERPOv2L3PCse6K63-lGQfbZubwCu-8YqZFEFZEUp5_0SjqFxEXWArjsvGnMc2CqcBe8Fg2EGg5mb3BqeA7yUjG6kfY2b9k99mjKTd79EXQnYjZ-g&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Jujutsu Kaisen King Sukuna T-shirt",
+        "description": "Heather Gray",
+        "price": 19.99,
+        "anime": 12,
+        "image": "https://cdn.shopify.com/s/files/1/0271/1119/4718/products/product-image-1670856468_576x.jpg?v=1620929928",
+        "type": 1
+    },
+    {
+        "product-name": "JoJo's Bizarre Adventure T-shirt",
+        "description": "White",
+        "price": 19.99,
+        "anime": 13,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQK-CrzOop9kBTpJL0zKh_O-sPbZXJ0WVuTpX52YQp2trPO8dh3sjMeRjppYPXADtTs-hfFvJVTmNkNSa9V_nhG5xc-4QBFZw&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "JoJo's Bizarre Adventure T-shirt",
+        "description": "Black",
+        "price": 19.99,
+        "anime": 13,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQubTCMTno4MXIQbdi9d0SpDt50mKRtV56l8q28BCg6rxyg9Z1dhJDVzSmJc6x4-Lm81uC2a27Hax2b7NqazhB8VzzMJNZFYiiUwcH8mlTMbXyT1SPS7wE5GA&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Psycho-Pass T-shirt",
+        "description": "Red",
+        "price": 26.99,
+        "anime": 14,
+        "image": "https://i.etsystatic.com/32309839/r/il/0c4fa2/3805953536/il_794xN.3805953536_sfxp.jpg",
+        "type": 1
+    },
+    {
+        "product-name": "Psycho-Pass Shirt",
+        "description": "BLack Long-sleeve",
+        "price": 28.99,
+        "anime": 14,
+        "image": "https://i.etsystatic.com/32309839/r/il/a28608/3805969720/il_794xN.3805969720_2oev.jpg",
+        "type": 1
+    },
+    {
+        "product-name": "Naruto Ichiraku Ramen T-shirt",
+        "description": "Black",
+        "price": 19.99,
+        "anime": 15,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSDzcNGK0nTTdeL8SzgzjLuTX3WVfVu2SjPEZpL3Hyy0zGlMFA6m4sfVQYjag_SERT_A-7fQboV-rIyvrRniZO-ilhLf8EpnnPfTkzn3n9_5OAqSV62i5Pr",
+        "type": 1
+    },
+    {
+        "product-name": "Naruto Running T-shirt",
+        "description": "Black",
+        "price": 21.99,
+        "anime": 15,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTNPlXRmDA2eoW80kVtlSbe-FWMneJArJVrIQYL6P0PWeIdl_btGEJfpYWs9UJrlIeNcjpu4tacSqU5doaxDjDHHfgouhJZtMwrayjS2M9tkn4WLO5RxWV7sQ",
+        "type": 1
+    },
+    {
+        "product-name": "Naruto Shippuden- Kakashi Story T-shirt",
+        "description": "Heather Gray",
+        "price": 19.99,
+        "anime": 16,
+        "image": "https://m.media-amazon.com/images/I/71mwbVNN-OL._AC_SX569._SX._UX._SY._UY_.jpg",
+        "type": 1
+    },
+    {
+        "product-name": "Naruto Shippuden Naruto T-shirt",
+        "description": "Black",
+        "price": 24.95,
+        "anime": 16,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ5gkpREEcpMPwt9IsZwzH3sdru8mLSod3e3lqfLi89SJKzx43MHe4q0oRnlge8UHCQbsdZBv0rr87Su68bixxb-3cKCVbYAGUxuA4LO5Tp&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Boruto Uzumaki Tailed Beast Mode Sweatshirt",
+        "description": "Green/Yellow",
+        "price": 34.95,
+        "anime": 17,
+        "image": "https://cdn.shopify.com/s/files/1/0164/3410/2372/products/naruto-super-cool-boruto-uzumaki-tailed-beast-mode-action-green-hoodie-otakuform-anime-hoodies-9880904728676_900x.jpg?v=1559479801",
+        "type": 1
+    },
+    {
+        "product-name": "Boruto Tenseigan T-shirt",
+        "description": "Black",
+        "price": 28.95,
+        "anime": 17,
+        "image": "https://naruto-clothing.com/wp-content/uploads/2021/01/boruto-tenseigan-shirt-naruto-merchandise-749-wpp1641219709876-768x768.jpg",
+        "type": 1
+    },
+    {
+        "product-name": "My Hero Academia Deku Bakugo Ochako Fight T-shirt",
+        "description": "Navy Blue",
+        "price": 22.95,
+        "anime": 18,
+        "image": "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/bioworld-unisex-t-shirts-my-hero-academia-deku-bakugo-ochako-fight-t-shirt-30355986710572_2000x2000.jpg?v=1653006111",
+        "type": 1
+    },
+    {
+        "product-name": "My Hero Academia Sweatshirt",
+        "description": "Blue",
+        "price": 19.99,
+        "anime": 18,
+        "image": "https://cdn.shopify.com/s/files/1/0158/8061/8084/products/O1CN01xm7XRQ1mJMX5LaNlC__2209871344933-0-cib_1024x1024.jpg?v=1646380281",
+        "type": 1
+    },
+    {
+        "product-name": "Sword Art Online Shirt",
+        "description": "BLack Long-sleeve",
+        "price": 19.99,
+        "anime": 19,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT0p6IEVNuvTbiEEM3wn0R6oe6nvztTwdrNP815q_Y5Pw_-HBJMiTPZQOor6wVLBwwa60ZPGPvqKDbR-ofnLmgqOfYiayzBmJGO90s1gQEtByhRj_x0PEylwQ&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Sword Art Online Kirito Swordplay T-shirt",
+        "description": "Navy Blue",
+        "price": 24.99,
+        "anime": 19,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIEA2fF6jVYEff_npYsy7Fd7rRVrdI0uUrfbIw5h5WuqljQm11Y6FoTJ-YK8myKH8K8sRANYEWWczr4mFkxTbyOBsoTYoWSCf-TOgY0sf0ehQD8lOr_nkA&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "One Punch Man 'Ok' T-shirt",
+        "description": "Orange",
+        "price": 19.99,
+        "anime": 20,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTRttSycmhtk_rbKhIsXPWccRBJP89dmKoFj6fQ2Ubb7sgMdUJrThrICW1RiXXihILl9R1c4DSDFZ6mN3_3kZ0wvCI6M9xLTFLQkoCoAMlNssrynobFeFi3&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Tokyo Ghoul T-shirt",
+        "description": "Navy Blue",
+        "price": 19.99,
+        "anime": 21,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSKDDJbT0hJgioXm90Yf8pXaHGOBXjCkt3aC3hu5dLhMoLgiVeiDGv4-YD_FjKwhaErIVQ9jQzZH52xreXYyneijSyaJUOcVE2nvqEmfVEmi7tc5f1JFtrB&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Tokyo Ghoul Ken Kaneki Sweatshirt",
+        "description": "Heather Gray",
+        "price": 19.95,
+        "anime": 21,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTEQhPwWcI_oIIENJOBG1QlSQZLfQENkTc8ssjXS8gFfCgA7MooM-TePxYwoBFNUuAboidUSHOoBLiXWcys-_iNxwpIKV4x2zv38zMcZG53RFxBi13hZU-0Gg&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Fairy Tail Guild Heroes Group T-shirt",
+        "description": "Black",
+        "price": 19.95,
+        "anime": 22,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRfWXPUWjMgELJZAIUemu9E9NhpiGZsOM4hZINMttT-AXRgjvA2WG50EsMCaSxjgvxG4WNvR5W6CPH03yDMYrr8t0jv5N6s1eNkGUMneOeYB1kejz8pDvvApQ&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Fairy Tail Natsu Dragneel Sweatshirt",
+        "description": "Orange",
+        "price": 39.99,
+        "anime": 22,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQi2cjYemKPYFrqDuUfaPltVUf0y4gpcqS-Y7i6dIUExAT2yX-GPkvyixiyja5iNtajGjAYWDO_NiMEb8OuYQWHEPDz2zB6OP7uuYiT9woeo2zevE-Gydkj&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Black Clover Asta Sweatshirt",
+        "description": "Yellow",
+        "price": 29.99,
+        "anime": 23,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKtMWjQ0Zt9DCQIIKPbQlHuQlYJyLA3KDNfyiu1rMCdNGpdxkdVYYlpwfZ2c-D1PLkS-U2cJl82CHp0858T6pKUCw96ll89ATlw9bPU8UwcIl4tFISuqzmJg&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Seven Deadly Sins T-shirt",
+        "description": "Multi-colored",
+        "price": 21.99,
+        "anime": 24,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREtHmu8uUKALI7ZihcL7l__3C9Ti18SiGgkRIUEzRZ15VP50gx7Ji8bHhfhCR8mshf0vO5QEROimd7L0DBnbmRC-Wa6H_S2E2Qslzg46jPpei3a1NKw9zBIg&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Seven Deadly Sins T-shirt",
+        "description": "Black",
+        "price": 17.99,
+        "anime": 24,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTFsym__fPR1Fc1KwPCaZiO4u95H3WGoY1KoudrF2rCTRYzmDs5lSQMxKI24vsmog8ijXVT8Nfzzx-PzpV_gxEeykVVF1yMrYLEPO_VbD07Hd2bq00fyhsi&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Hunter X Hunter Sweatshirt",
+        "description": "Black",
+        "price": 22.99,
+        "anime": 25,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQXYaOm2wkz4bTRP6SXWvUhnE-oDdmM-MiGCRroxXX8ORhA0705I2nDhco7QQRqrAwkGJbo_eTGhPqb9HcGpzxTdRXQS9yEyoyK2mLulg1Q1gdyaGWxASjcDw&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Overlord T-shirt",
+        "description": "Black",
+        "price": 15.99,
+        "anime": 26,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRCn9hMjxC_1mtdbDcVEXhRXmtRMSrIeVSKxOxtOul6DM3PT1dvV1rZ4vOm7fVkCBm5pPhRefizLakRZm7c_NHFudoVspg05jogBhRsCqU3O403RlXM25hc&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Cowboy Bebop T-shirt",
+        "description": "Black",
+        "price": 19.99,
+        "anime": 27,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSkwx_YelmhraBZ1hRDEGRecv8_e3sHjZW84I-3TjtpdXtHhOAMSNXebpqgF1eGKF0EZ3XwNUGaBc44ArWpJvTNztxVhnSbCG9EYWK-R2u9C2iz8MUfMkkr&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Fruits Basket T-shirt",
+        "description": "Black",
+        "price": 26.99,
+        "anime": 28,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRhqpd66b05NNz_lroNJRA5bZ4KE_usPuguEkZ46J-2YELDZ854MZAFLnv9lXMlXgzA_yfMVa-nEUKXd1CMacLcaIqzNoNdsqjlXtEPQiJDN5s_9ajp0y-1uw&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Hellsing Ultimate Alucard T-shirt",
+        "description": "Black",
+        "price": 12.99,
+        "anime": 29,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRu5lxnjZbq350eMNbhISUZERvrXAK9mhchJB_0c-sRiin5zCH_g73yFv3EuLMx3S4OUgBKmkBUvoH0lwR9_nb3N_Mpz4Usvaic0ORAXh60HgMFtR92o78SXw&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Elfen Lied T-shirt",
+        "description": "Black",
+        "price": 16.99,
+        "anime": 30,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAr97V1JXETziWjrs9ZOICWCHyp5iKKgrgbiaXkZ9rFKYUJr5EVJR4DJj_yvN5eMA_Fz22tcNyL59s-NaHmRMh5n5iwiMuEmG7nh5oA7hkAV9BIsPTGc8h&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Elfen Lied T-shirt",
+        "description": "Black",
+        "price": 18.99,
+        "anime": 30,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbGqh0rqmRlqPS01Lh2ArUf4YLmkwYZFL1Tqc3SfK_jYPEaAN57Q-CWrtX-LRc8kW9ywfa9ADwaDO1LSOdID2Gw56zdJdruR27-QNIzTO1kiD_8aCGYc-7&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "One Piece T-shirt",
+        "description": "Black",
+        "price": 23.95,
+        "anime": 31,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6bk052ZQ-PuDPvcvIbWzqxg3Yfy0TLN0-6J5EmuQU_aHn8f_3tRLsH3J4RiO9I2bAKwFDctpsaF8acV45Nb9tjQs7NnqTMFTHT61iFyUdII9tNjzHCme9&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "One Piece T-shirt",
+        "description": "Light Blue",
+        "price": 21.95,
+        "anime": 31,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqnYL-207_oTSk_4M3rGoj6qxPkL36sdb2y5_snU_OxkwioBr0d-E-p95JuQBKWyoGV8Z-9G2U27RUZXvxLrCeqDeA1Uph5ZAU6suSAlsnNRy0BmDhzMCB&usqp=CAE",
+        "type": 1
+    },
+    {
+        "product-name": "Funko Pop! Death Note- Ryuk",
+        "description": "Dimensions 4.5inL 3.5inW 6.5inH",
+        "price": 214.95,
+        "anime": 1,
+        "image": "https://i5.walmartimages.com/asr/b1217e49-e5ab-4f61-a515-c5735fbadc88_1.af66f259920631e20815d8107a7b8a41.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "type": 2
+    },
+    {
+        "product-name": "Death Note Ryuk Figure",
+        "description": "Dimensions 7in Tall",
+        "price": 27.99,
+        "anime": 1,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTkr9CM-Q3LcLsX05eEml5oiK5cOG08gea15czyaMAqEhGI6jAT7W2K7Y3QuoJLsPEJkjhR9pyMz51MF7wYkZ2YSmv_EX5sR5v5mrI6Ca8e9FQIqHxxvERP&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Black Butler Ciel with Chess Piece Figure",
+        "description": "Dimensions 7in Tall",
+        "price": 175.70,
+        "anime": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQeS_tDGcHdZ6tLQPNPdCNXMXf_dP4q9LHQHfjylNsrCxuqdtp_oRMGAPZFd4oXamUutTH3UDjgFChL3iBOA2W04N49Eyn9vozXfQCeoaI9ampkfgN2f2am&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Sailor Moon Saturn Statue",
+        "description": "Dimensions 5in Tall",
+        "price": 21.00,
+        "anime": 3,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS60MRLFWyZbeLF2-ehCoF8mXDZZ2EwW4ypJr0PIP11ByusS4l6p5h3IB1UmEaM_qPpeGdciCRMYB4qaqhqORp2tHJq2-1w-jhQwPFIHPYcWhLbWk2_JoKCWQ&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Full Metal Alchemist Edward and Alphonse Elric Figure",
+        "description": "Dimensions 12in Tall",
+        "price": 662.00,
+        "anime": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR56a_YrMSGzonQZo8DL1iXU89n18SzhgODfN244vCNDsTIqXBb7geizxtLBF9XZbcZqazhNsCeCYx-AU_pe-ghfiWoBwQkwFs6NEO2rJs1NBHNxazPZoA7&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Bleach Baseball Cap",
+        "description": "White",
+        "price": 30.00,
+        "anime": 5,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQCMCOf3wd-NWeFDJM6zR_HR9Y4AUqAQcFYVJwJF7m62N9AOfmBmzRIqeOR3xBLDClOVjkGOA2ActBLLCCZwUJmQAVh_5jcV2gE1Zhq7PqxBxpKmgdgz3Xk&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "6-Piece Dragon Ball Figures",
+        "description": "Dimensions 3.2in Tall",
+        "price": 28.99,
+        "anime": 6,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQSih63ElTNmxJ6YJOmSK4JFrgZ9yX1JedRDWMWYbq9BLfEJ0r-OEotUGYqo9WMmwqci5B57QayrP3_gfOQvPyZDbNBYDukJIRs9WjRlwsuXUg-W8NtUBl8Q&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Spy x Family Loid Forger Figurine",
+        "description": "Dimensions 3.5in Tall",
+        "price": 28.99,
+        "anime": 7,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTNY3P1Hm5rk6T6R7zB-YgMf-xAzht8AcDMHDFJTbqwLoU61xY2tQ-2fVxRBqV0W8G2mhpZch3MIvFm7I-SP2fRaeVB7nAvUTjjhb2MBD5P3ltE8JzFtiHZ&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Komi Cant Communicate 5-Piece Keychain Set",
+        "description": "Acrylic",
+        "price": 15.99,
+        "anime": 8,
+        "image": "https://m.media-amazon.com/images/I/616Gl7KxAiL._AC_UX679_.jpg",
+        "type": 2
+    },
+    {
+        "product-name": "The Way of the Househusband Apron",
+        "description": "White",
+        "price": 15.99,
+        "anime": 9,
+        "image": "https://cdn.shopify.com/s/files/1/0376/1956/4683/products/1_39a293e7-053e-46ea-94e5-2d4dd516a924_900x.jpg?v=1620549544",
+        "type": 2
+    },
+    {
+        "product-name": "Attack on Titan Kotobukiya Levi Attack",
+        "description": "Dimensions 5.5in Tall",
+        "price": 334.43,
+        "anime": 10,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_WUzX-r3BO8Xgi0kWI-lkpyW_7Q-89WigzkXA70WoG0oN__WeDbkHQbPHrwWBFkLS8pk1C7_jFTGE38bwPtCGGwu6tQOURVsoZ1tHdhqvYPVPnhDOm8rJ&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Demon Slayer Tanjiro Cosplay Sword",
+        "description": "Dimensions 40in Long",
+        "price": 19.99,
+        "anime": 11,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSBcOqRwNEC3uoeIk_XPeruAyRTVfYAuj5IK7LOjh5dRBSJAu7TTkDsFwl_Ao4PtHJLc6zlCPi0KAu7cAESeR2hpG2cBujJ3uFP2yBONw22FeedBSaDFnpP4w&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Jujutsu Kaisen Gojo Satoru Figurine",
+        "description": "Dimensions 4in Tall",
+        "price": 20.99,
+        "anime": 12,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFL_-uW89jgu_ovegtJs4LWYVHbmt1pTQeQi0A-vCnWH1QpymgvTMOvV7Vm9suj2_JoWsU3nq2lcXF36el0zYDGBEjLiie8GUWM3XjBxMIYE7IZVByv2gk&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Psycho-Pass Premium 1/1 Deominator Sega Prize with Tracking",
+        "description": "Dimensions 14in Long, Plastic",
+        "price": 53.99,
+        "anime": 13,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxVkQ2Oaplwjp5bU6d1bXV6tgIhXShcwasgJSRANqtUdIuUlPVPuyv5ZRv1Ea25AHPioVvgOVDLMMvHsk3oJ9vj6c6JsXVJ1XPTSKVzxkXEeXFKcJ7B9Qx&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Naruto Uzumaki Figurine",
+        "description": "Dimensions 4.5in Tall",
+        "price": 34.99,
+        "anime": 14,
+        "image": "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/megahouse-pvc-scale-figures-naruto-naruto-uzumaki-look-up-series-figure-re-run-16910301265964_2000x2000.jpg?v=1632742991",
+        "type": 2
+    },
+    {
+        "product-name": "Naruto Shippuden Kakashi Figurine",
+        "description": "Dimensions 3in Tall",
+        "price": 15.99,
+        "anime": 15,
+        "image": "https://cdn.shopify.com/s/files/1/0014/2648/9388/products/ultra-tokyo-connection-chibi-figures-naruto-shippuden-kakashi-hatake-chibi-masters-27981856243756_2000x2000.jpg?v=1615597988",
+        "type": 2
+    },
+    {
+        "product-name": "Boruto Lego Figurine",
+        "description": "Dimensions 3in Tall",
+        "price": 4.99,
+        "anime": 16,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNvSgQxLdhmgG0d9jpd6YjWCncRHkeSpJMWSU64cJ_3kbcEb91v3rT8tgdeGECfDn-svnkZ6-3CZL7ZTJugj7oRh5YpH4_70XovMtX6cZD7g9HiLvLPDaNXw&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "My Hero Academia Mystery Box",
+        "description": "Includes 5 Collectables",
+        "price": 33.99,
+        "anime": 17,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThhOgs1LXeCIHN3pXpDbbYynIMN__zzI0deIe3pv8kBniKxPPGa39kLRkZxY68uwJhnZGj92XYQrIw6JBnh4QWAw0T5fpcS_b6rxT9waoM6_wJ1jMbQgPBDA&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Sword Art Online 12-Piece Keychains",
+        "description": "Dimensions 2.5in Tall",
+        "price": 74.00,
+        "anime": 18,
+        "image": "https://i.ebayimg.com/images/g/sAkAAOSwwTZiTqOI/s-l500.jpg",
+        "type": 2
+    },
+    {
+        "product-name": "One Punch Man Saitama Figurine",
+        "description": "Dimensions 11.8in Tall with Interchangeable Pieces",
+        "price": 139.99,
+        "anime": 19,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwktolDO_LIvZfoqPoTTowc5kx_3STcgj4L_cYh7zqmWm15tOWpGXJ2m0zMoPShReB4gZYfDAKS_GF-5Rx3toccw5JQMuf0IhonxhUvixGaKwSLDiAZDBX8A&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Tokyo Ghoul Touka Kirishima Figurine",
+        "description": "Dimensions 9in Tall",
+        "price": 52.99,
+        "anime": 20,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSB_Ti3aPDFf7NW8M4SPICs1hDstLseCf7AVglT4ZhgS2Yi4GrHuphS0AGq2hJLBShLGMWWsLBOAS4b63XfK3BJFMms8wig3zwfLCSMl17sjmvEUmiPbnkG&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Fairy Tail Golden Zodiac Keys",
+        "description": "Set of 18",
+        "price": 19.90,
+        "anime": 21,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdO8tqYtRSOVsa8RvQE-a9uA1JAsRt-bDna7UmJFt8KEE2GMPWe4W_yBV9YpssXD5DhS6jcNXU7wR7Q89Thc7ZUIw6UnzizFJjnGmjDQd78_9Y2bV2KaVwfQ&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Black Clover Asta Cosplay Headband",
+        "description": "Diameter 9.5in",
+        "price": 21.89,
+        "anime": 22,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1GL3NH4W_f-uiF1miIVJzKocL2ttevE0MGnjdFTQ8TtdqKH1-JwoscwFI25KEqOnWmG8DR4aDDcTQ7prrv_pguPywbfDdd01m_fx-H4pu2vq7eX9BQmeFYA&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Seven Deadly Sins Key Keychain",
+        "description": "Dimensions 5in Long",
+        "price": 6.00,
+        "anime": 23,
+        "image": "https://m.media-amazon.com/images/I/51lpegENtPL._AC_UX679_.jpg",
+        "type": 2
+    },
+    {
+        "product-name": "Hunter X Hunter License Card",
+        "description": "Dimensions 3.5in Tall 2in Wide",
+        "price": 9.54,
+        "anime": 24,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOV0OYbaoigpNNh_TjT2uIupN1Pd1ZG_sfLk7AzswabcVhSUgZyMTxCiRLcpxcAykkyG-x60dqv7Ye9mNuVSC1I2O4ORTef_ZE8KLxc6IyvsrZ6FnEcppAKg&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Overlord Albedo Figurine",
+        "description": "Dimensions 4.7in Tall",
+        "price": 33.27,
+        "anime": 25,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpJB439T_rshgoyOjfy5id4e11yeMQ-zSccYUne3YH6iOu6oEPYybIuVXI1BG_r7n8CiKrXrovJEJBt9OZtvIq-t2Om2esKUAGVnuoMihIrzUDEf6wQT4Xyw&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Cowboy Bebop Enamel Pin",
+        "description": "Dimensions 1.5in Tall",
+        "price": 10.55,
+        "anime": 26,
+        "image": "https://m.media-amazon.com/images/I/81F1TqrEN+L._AC_UX679_.jpg",
+        "type": 2
+    },
+    {
+        "product-name": "Fruits Basket Honda Tohru Figurine",
+        "description": "Dimensions 7.5in Tall",
+        "price": 10.16,
+        "anime": 27,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFQsyW_ROQuz0cBvK2Uj1gmp3aLm59Gxd51eKvOJGLTRecvTiOUwLjuk61gsQZrrNAcV1VmQDIJfVz1Av1egUlcn-x2vdQC2OlDx2i_GDa9X_oHUSOtZZ-&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Hellsing Ultimate Alucard Cosplay Glasses",
+        "description": "Orange Lenses",
+        "price": 8.00,
+        "anime": 28,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfcTYZx9n75IueElOgqeBJBbWxA3K4Y-GwrhkQ3MXwTkaALttqS1lMlxmSACw0gwLK1bEQgNVNPCcOMbnsURJiHymMIbKlIoQGWDMqI2gH&usqp=CAE",
+        "type": 2
+    },
+    {
+        "product-name": "Elfen Lied Red Wooden Music Box",
+        "description": "Tune: Lilium",
+        "price": 49.99,
+        "anime": 29,
+        "image": "https://cdn.shopify.com/s/files/1/0059/3870/8537/products/redheart_1024x_087cd6ec-8032-4c94-8827-395bf422ace5.jpg?v=1571716397",
+        "type": 2
+    },
+    {
+        "product-name": "One Piece Figurine",
+        "description": "Dimensions 9.8in Tall",
+        "price": 44.99,
+        "anime": 30,
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7I10l2Rm9HKxUbrIi89iShWKaRHmJkq_-KECY6hAk9zseiUIsZ51_qyQLt3bOzt_DfpL1G2XjiN6HQC7m-jxOIkj8dCX9D3GvsBM3dCtanDnsxgFrc-qO&usqp=CAE",
+        "type": 2
+    }
+]
