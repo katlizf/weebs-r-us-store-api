@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express.Router()
-const productTypes = require('../productTypes.json')
+const productTypes = require('../db/productTypes.json')
 
 
 router.get('/', (req, res) => {
