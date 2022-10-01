@@ -1,6 +1,7 @@
+const {json} = require('body-parser')
 const express = require('express')
 const router = express.Router()
-const products = require('../products.json')
+const products = require('../db/apparel.json')
 
 
 router.get('/', (req, res) => {
@@ -14,5 +15,6 @@ router.get('/:product_id', (req, res) => {
     }
     res.json(products[product_id])
 })
+
 
 module.exports = router

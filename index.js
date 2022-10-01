@@ -11,10 +11,6 @@ const productsRouter = require('./routes/productsRoutes')
 const animeRouter = require('./routes/animeRoutes')
 const productTypesRouter = require('./routes/productTypesRoutes')
 
-// Middleware
-// app.get('/', (req, res) => {
-//     res.send('Welcome')
-// })
 
 app.use('/products', productsRouter)
 app.use('/anime', animeRouter)

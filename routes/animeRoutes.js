@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express.Router()
-const anime = require('../anime.json')
+const anime = require('../db/anime.json')
 
 
 router.get('/', (req, res) => {
