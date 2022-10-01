@@ -7,12 +7,14 @@ app.use(bodyParser.json())
 app.use(express.static('./public'))
 
 // Import Routes
-const productsRouter = require('./routes/productsRoutes')
+const apparelRouter = require('./routes/apparelRoutes')
+const collectablesRouter = require('./routes/collectablesRoutes')
 const animeRouter = require('./routes/animeRoutes')
 const productTypesRouter = require('./routes/productTypesRoutes')
 
 
-app.use('/products', productsRouter)
+app.use('/apparel', apparelRouter)
+app.use('/collectables', collectablesRouter)
 app.use('/anime', animeRouter)
 app.use('/productTypes', productTypesRouter)
 
